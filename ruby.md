@@ -5,9 +5,9 @@ Answer the following questions. First, without external resources. Challenge you
 
 1. In what ways are JavaScript and Ruby similar? In what ways are they different?
 
-  Your answer:
+  Your answer: They are both a programming language, they have similarities as in variables, functions, and methods.
 
-  Researched answer:
+  Researched answer:Javascript is used for both front-end and back-end whereas ruby is used primarily for backend. They both share similarities as in both are object oriented languages.
 
 
 
@@ -15,13 +15,13 @@ Answer the following questions. First, without external resources. Challenge you
 
   Your answer:
 
-  Researched answer:
+  Researched answer: A hash is a collection of unique keys and their values
 
 
 
 3. What is the testing framework used in Ruby? Describe the process of setting up the testing environment.
 
-  Your answer:
+  Your answer: rspec is the testing framework. and the process of setting it up is creating 2 files one for testing and the other to right the code that will make the test past.
 
   Researched answer:
 
